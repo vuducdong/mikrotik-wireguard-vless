@@ -14,7 +14,7 @@
 
 #### 1.1. Deploy the VM on Linux
 
-For this guide, Oracle Linux 9 will be used. Please turn off SELinux and Firewalld during setup, it will probably save your time.
+For this guide, **Oracle Linux 9** will be used. Please turn off SELinux and Firewalld during setup, it will probably save your time.
 
 #### 1.2. Install Docker
 
